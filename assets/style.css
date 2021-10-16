@@ -30,7 +30,7 @@ p{
 }
 .container{
     background-color:aquamarine ;
-    border: 2px black solid;
+    border: 2px black dashed;
 }
 
    @media screen and (max-width:768px){
