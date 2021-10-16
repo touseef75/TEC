@@ -31,6 +31,8 @@ p{
 .container{
     background-color:aquamarine ;
     border: 2px black solid;
+    box-shadow: 1px 1px 10px black;
+
 }
 #back{
     box-shadow: 1px 1px 10px black;
