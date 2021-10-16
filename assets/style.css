@@ -38,7 +38,7 @@ p{
            overflow-x: hidden;
        }
        #heading{
-           transform: scale(0.6);
+           transform: scale(1);
        }
        img{
            margin-top: -200px;
