@@ -25,13 +25,22 @@
     margin-top: 90px;
 }
 p{
-    
+    text-shadow: 1px 1px 10px aquamarine;
     font-size: 1.5rem;
 }
 .container{
     background-color:aquamarine ;
-    border: 2px black dashed;
+    border: 2px black solid;
 }
+#back{
+    text-shadow: 1px 1px 10px aquamarine;
+}
+
+#h3,#h4,#h4,#h5,#h6{
+    border: none;
+    outline: none;
+}
+
 
    @media screen and (max-width:768px){
        .container-fluid{
