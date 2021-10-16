@@ -32,12 +32,7 @@ p{
     background-color:aquamarine ;
     border: 2px black solid;
 }
-#back{
-    /* background-color: #c1121f;
-    color: white; */
-/* }#h3,#h4,#h5,#h6{
-    background-color: aquamarine;
-} */
+
    @media screen and (max-width:768px){
        .container-fluid{
            overflow-x: hidden;
