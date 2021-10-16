@@ -33,12 +33,14 @@ p{
     border: 2px black solid;
 }
 #back{
-    text-shadow: 1px 1px 10px aquamarine;
+    box-shadow: 1px 1px 10px black;
 }
 
 #h3,#h4,#h4,#h5,#h6{
-    border: none;
+    border: 2px solid black;
     outline: none;
+    background-color: white;
+    color: black;
 }
 
 
