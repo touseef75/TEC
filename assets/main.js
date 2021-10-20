@@ -65,7 +65,7 @@ img.addEventListener("click",function(){
         e7.innerHTML = "Colon";
         num = 8;
     }else if(num == 8){
-        e8.innerHTML = "Recturn";
+        e8.innerHTML = "Rectum";
         
     }
 })
